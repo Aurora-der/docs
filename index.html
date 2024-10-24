@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-cn">
 <head>
   <meta charset="UTF-8">
   <title>闲云野鹤</title>
@@ -18,7 +18,7 @@
       name: '文档大纲',
       repo: '',
       coverpage: true,    //显示封面
-      onlyCover: false,   //只显示封面
+      onlyCover: true,   //只显示封面
       loadSidebar: true,  //显示侧边栏
       loadNavbar: true,   //显示导航栏
       subMaxLevel: 3,     //侧边栏最大层级
@@ -26,23 +26,6 @@
       ga: 'UA-XXXXX-Y',   //Google Analytics
     }
   </script>
-
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script> <!-- Gitalk -->
-<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>  <!-- Gitalk -->
-<script>
-  const gitalk = new Gitalk({
-    clientID: 'Github Application Client ID',
-    clientSecret: 'Github Application Client Secret',
-    repo: 'Github repo',
-    owner: 'Github repo owner',
-    admin: [
-      'Github repo collaborators, only these guys can initialize github issues',
-    ],
-    // facebook-like distraction free mode
-    distractionFreeMode: false,
-  });
-</script>
-
   <!-- 加载插件 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script> <!-- Google Analytics -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script> <!-- 图片缩放 -->
