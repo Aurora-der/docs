@@ -6,9 +6,5 @@
 
 > 一个简单而轻量的文档网站生成器
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
-
 [开始阅读](README.md)
 [GitHub](https://github.com/docsifyjs/docsify/)

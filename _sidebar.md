@@ -1,5 +1,7 @@
 <!-- _sidebar.md 侧边栏设置-->
 
-* [>>返回主页](README.md)
+* [:house: 返回主页](README.md)
 
-* [Markdown](/Markdown/Markdown教程.md)
+* [Markdown](/blog/Markdown/Markdown教程.md)
+
+* [Java](/blog/Java/Java程序设计.md)
