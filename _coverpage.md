@@ -1,4 +1,6 @@
-<!-- ![logo](_media/icon.svg) -->
+<!-- _coverpage.md 封面页设置 -->
+
+![logo](_media/icon.svg :'size=200')
 
 # 云鹤
 
