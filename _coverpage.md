@@ -2,7 +2,7 @@
 
 ![logo](_media/logo.png ':size=200')
 
-# 云鹤
+# **云鹤**
 
 > 一个简单而轻量的文档网站生成器
 
@@ -10,5 +10,5 @@
 - No statically built html files
 - Multiple themes
 
-[开始阅读](#docsify)
+[开始阅读](README.md)
 [GitHub](https://github.com/docsifyjs/docsify/)
